@@ -20,19 +20,19 @@ You treat employment growth as proof of economic strength, but hiring volume doe
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <h1>114</h1>
 <sub>False Growth<br>regions identified</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <h1>0.768</h1>
 <sub>R² -- Skill DNA<br>predicts 77% of churn</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <h1>15x</h1>
 <sub>more explanatory power<br>than employment growth</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <h1>p < .0001</h1>
 <sub>validated on held-out<br>2023 outcomes</sub>
 </td>
